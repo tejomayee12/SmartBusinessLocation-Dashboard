@@ -57,7 +57,8 @@ Pivot Tables & Charts
 Map Visualization
 
 📸 Dashboard Preview
-<img width="1858" height="690" alt="Snapshot of Dashboard" src="https://github.com/user-attachments/assets/c108b1a8-4ceb-48f9-9cd7-47cafb108c6e" />
+<img width="1863" height="685" alt="Snapshot of SBLDashboard" src="https://github.com/user-attachments/assets/ae6096b5-4fba-47c0-a404-ad0565bf36e0" />
+
 
 
 📈 Business Insights Derived
