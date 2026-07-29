@@ -86,6 +86,8 @@ Business Intelligence Thinking
 Dashboard UI Design
 
 Analytical Storytelling
+## 🔗 Project Showcase
+Check out the LinkedIn post where I walk through this dashboard and key insights: [LinkedIn Post](https://www.linkedin.com/in/tejomayeeagirishetty/recent-activity/all/)
 
 🚀 Project Impact
 
